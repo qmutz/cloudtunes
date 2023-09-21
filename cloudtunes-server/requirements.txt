@@ -1,7 +1,7 @@
 https://github.com/cloudtunes/python-musicbrainz-ngs/archive/master.zip
 tornado==3.2.2
 tornadio2==0.0.4
-gevent==1.0
+gevent==23.9.0
 
 mutagen==1.21
 celery==3.0.11
