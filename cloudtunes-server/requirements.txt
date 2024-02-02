@@ -4,7 +4,7 @@ tornadio2==0.0.4
 gevent==1.0
 
 mutagen==1.21
-celery==3.0.11
+celery==4.4.0rc5
 requests==2.3.0
 dropbox==1.4
 hiredis==0.1.1
