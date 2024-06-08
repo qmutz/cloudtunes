@@ -1,5 +1,5 @@
 https://github.com/cloudtunes/python-musicbrainz-ngs/archive/master.zip
-tornado==3.2.2
+tornado==6.4.1
 tornadio2==0.0.4
 gevent==1.0
 
